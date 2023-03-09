@@ -15,7 +15,7 @@ I'm Hamzah Punjabi, a Computer Science student studying at MUN in St. John's, NL
 
 ## 📚 My Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahap&langs_count=10&layout=compact)](https://github.com/hamzahap/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahap&langs_count=10&layout=compact&theme=dark)](https://github.com/hamzahap/github-readme-stats)
 
 ## 📫 How to reach me
 
