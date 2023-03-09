@@ -11,11 +11,11 @@ I'm Hamzah Punjabi, a Computer Science student studying at MUN in St. John's, NL
 
 ## 📈 My GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hapunjabi&show_icons=true)](https://github.com/hapunjabi)
+[![Hking's GitHub stats](https://github-readme-stats.vercel.app/api?username=hapunjabi)](https://github.com/hapunjabi/github-readme-stats)
 
 ## 📚 My Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hapunjabi)](https://github.com/hapunjabi)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hapunjabi)](https://github.com/hapunjabi/github-readme-stats)
 
 ## 📫 How to reach me
 
