@@ -4,10 +4,9 @@ I'm Hamzah Punjabi, a Computer Science major currently in my final year at Memor
 
 ## 🔭 I'm currently working on
 
-- My Website
+- AWS Cloud Certifications
 - My Job Hunt
 - My Game
-- Dino Game AI
 
 ## 📈 My GitHub Stats
 
