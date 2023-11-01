@@ -4,9 +4,12 @@ I'm Hamzah Punjabi, a Software Developer recently graduated from Memorial Univer
 
 ## 🔭 I'm currently working on
 
-- AWS Cloud Certifications
 - My Job Hunt
 - My Game
+
+## 🗞️ Certifications
+
+[AWS Cert]([https://website-name.com](https://www.credly.com/badges/1769a415-88da-4445-9447-f92b9ae73337/public_url))
 
 ## 📈 My GitHub Stats
 
