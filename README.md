@@ -9,7 +9,11 @@ I'm Hamzah Punjabi, a Software Developer recently graduated from Memorial Univer
 
 ## 🗞️ Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1769a415-88da-4445-9447-f92b9ae73337" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="center">
+    <a href="https://www.credly.com/badges/1769a415-88da-4445-9447-f92b9ae73337" alt="AWS Certified Solutions Architect - Associate">
+    <img width="30%" src="https://user-images.githubusercontent.com/93064150/220882398-d3ff4ebe-acd5-4bd4-9f84-50a9cca16e85.png" alt="AWS Certified Solutions Architect - Associate">
+    </a>
+</p>
 
 ## 📈 My GitHub Stats
 
