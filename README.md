@@ -9,7 +9,7 @@ I'm Hamzah Punjabi, a Software Developer recently graduated from Memorial Univer
 
 ## 🗞️ Certifications
 
-[AWS Cert]([https://website-name.com](https://www.credly.com/badges/1769a415-88da-4445-9447-f92b9ae73337/public_url))
+[![AWS Cert]([https://website-name.com](https://www.credly.com/badges/1769a415-88da-4445-9447-f92b9ae73337/public_url))]
 
 ## 📈 My GitHub Stats
 
