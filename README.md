@@ -2,10 +2,6 @@
 
 I'm Hamzah Punjabi, a Software Developer recently graduated from Memorial University of Newfoundland and situated in St. John's, NL, Canada. I'm passionate about all things tech-related and have been honing my skills in programming, software development, and problem-solving throughout my academic journey. Looking forward to connecting with like-minded individuals and exploring new opportunities in the field!
 
-## 🔭 I'm looking for
-
-- Anything cloud related
-
 ## 🗞️ Certifications
 
 <p align="left">
