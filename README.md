@@ -4,13 +4,13 @@ I'm Hamzah Punjabi, a Software Developer recently graduated from Memorial Univer
 
 My expertise includes:
 
-Programming Languages: Python, Java, C++, C#, Dart etc.
-Web Development: HTML, CSS, JavaScript, ReactJS, NodeJS, .NET etc.
-Mobile Development: React Native, Flutter etc.
-Database Management: SQL, MongoDB, etc.
-Game Development: Unity, SFML, etc.
-Machine Learning: Scikit-learn, NumPy, Pandas, PyTorch, Tensorflow, etc.
-Cloud: AWS Solutions Architect Associate.
+Programming Languages: Python, Java, C++, C#, Dart etc. <br/>
+Web Development: HTML, CSS, JavaScript, ReactJS, NodeJS, .NET etc. <br/>
+Mobile Development: React Native, Flutter etc. <br/>
+Database Management: SQL, MongoDB, etc. <br/>
+Game Development: Unity, SFML, etc. <br/>
+Machine Learning: Scikit-learn, NumPy, Pandas, PyTorch, Tensorflow, etc. <br/>
+Cloud: AWS Solutions Architect Associate. <br/>
 
 
 ## 🗞️ Certifications
