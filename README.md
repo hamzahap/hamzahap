@@ -2,6 +2,17 @@
 
 I'm Hamzah Punjabi, a Software Developer recently graduated from Memorial University of Newfoundland and situated in St. John's, NL, Canada. I'm passionate about all things tech-related and have been honing my skills in programming, software development, and problem-solving throughout my academic journey. Looking forward to connecting with like-minded individuals and exploring new opportunities in the field!
 
+My expertise includes:
+
+Programming Languages: Python, Java, C++, C#, Dart etc.
+Web Development: HTML, CSS, JavaScript, ReactJS, NodeJS, .NET etc.
+Mobile Development: React Native, Flutter etc.
+Database Management: SQL, MongoDB, etc.
+Game Development: Unity, SFML, etc.
+Machine Learning: Scikit-learn, NumPy, Pandas, PyTorch, Tensorflow, etc.
+Cloud: AWS Solutions Architect Associate.
+
+
 ## 🗞️ Certifications
 
 <p align="left">
